@@ -102,17 +102,7 @@
 </a>
 </p>
 
-
-### 📊 Estatísticas
-
 <div style="display: flex; gap: 10px;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=alomyr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <div align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Alomyr&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
     height="220" 
@@ -121,9 +111,17 @@
 </div>
   
   <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=alomyr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <div align="center">
+
+  <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomyr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomyr&theme=tokyonight&layout=compact&custom_title=technology&langs_count=9" 
   />
 </div>
 
