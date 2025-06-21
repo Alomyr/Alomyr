@@ -111,6 +111,14 @@
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=alomyr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+  <div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Alomyr&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
+    height="220" 
+    alt="streak graph"  
+  />
+</div>
   
   <img 
     alt="Top Langs" 
@@ -119,13 +127,6 @@
   />
 </div>
 
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Alomyr&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
-    height="220" 
-    alt="streak graph"  
-  />
-</div>
 
 
 <div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=alomyr.alomyr&" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
