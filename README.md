@@ -125,33 +125,27 @@
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; gap: 10px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=alomyr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomyr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomyr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alomyr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
-
- &nbsp;
- &nbsp;
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Alomyr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
+    height="220" 
+    alt="streak graph"  
+  />
+</div>
 
 
 
