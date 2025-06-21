@@ -25,21 +25,30 @@
 </div>
 
 
+## 👨🏾‍🎓 About Me
+🎓 Technician in IT from IFRN - Campus Lajes
+
+🎓 Undergraduate student in Information Technology (BTI) at UFRN
+
+🧠 Passionate about low-level programming, game development, and open-source projects
+
+📺 Creator at YouTube
+
+<!-- 🌱 Currently learning Java, Data Structures, and Software Design -->
+
 
 ## My Skills
-
-#### Main Stack:
-
 ###
 
 <br clear="both">
 
 <div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <!-- <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
