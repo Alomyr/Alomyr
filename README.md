@@ -119,7 +119,7 @@
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomyr&theme=tokyonight&layout=compact&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomyr&theme=tokyonight&cunstom_title=Technology&layout=compact&langs_count=9" 
   />
 </div>
 
