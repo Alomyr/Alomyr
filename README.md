@@ -3,7 +3,7 @@
 <div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> </div> 
 
 
-<h1 align="center">Hey there! 👋 I'm Matheus Castro</h1>
+<h1 align="center">Hey there! 👋 I'm Matheus de Castro</h1>
 
 
 <div align="center">
