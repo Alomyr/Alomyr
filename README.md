@@ -1,10 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> </div> 
-
+<div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> </div>
 
 <h1 align="center">Hey there! 👋 I'm Matheus de Castro</h1>
-
 
 <div align="center">
 
@@ -13,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:matheuscastro11213@gmail.com" target="_blank">
+<a href="mailto:the.alomyr.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -21,23 +19,24 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-
 </div>
 
-
 ## 👨🏾‍🎓 About Me
+
 🎓 Technician in IT from IFRN - Campus Lajes
 
 🎓 Undergraduate student in Information Technology (BTI) at UFRN
 
-🧠 Passionate about low-level programming, game development, and open-source projects
+🧠 Interested in augmented reality, AI, and app development.
 
-📺 Creator at YouTube
+📺 I'm creating a YouTube channel to document my development.
 
-<!-- 🌱 Currently learning Java, Data Structures, and Software Design -->
+🌱 Currently learning Java, python, Data Structures, and Software Design
 
+### My portfolio <https://alomyr.github.io/portfolio/>
 
 ## My Skills
+
 ###
 
 <br clear="both">
@@ -56,7 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
 
-
 ###
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -68,7 +66,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp; -->
 
-#### Studying in this moment:
+#### Studying in this moment
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -78,11 +76,11 @@
 <!-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp; -->
 
-#### Databases:
+#### Databases
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Workstation Tools:
+#### Workstation Tools
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
@@ -90,13 +88,13 @@
 
 &nbsp;
 &nbsp;
-
+<!-- 
 <p align="left"> <a href="https://www.youtube.com/@The_Alomyr?sub_confirmation=1">
 <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCz5BzfWVd3yccqQOOfcxt-w?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
 </a>
 <a href="https://www.youtube.com/@The_Alomyr">
 <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCz5BzfWVd3yccqQOOfcxt-w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
-</a>
+</a> -->
 <a href="https://github.com/alomyr?tab=repositories&sort=stargazers">
 <img src="https://custom-icon-badges.demolab.com/github/stars/alomyr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" />
 </a>
@@ -106,26 +104,24 @@
 </p>
 
 <div style="display: flex; gap: 10px;">
-  <img 
-    src="https://streak-stats.demolab.com?user=Alomyr&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" 
-    height="220" 
+  <img
+    src="https://streak-stats.demolab.com?user=Alomyr&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3"
+    height="220"
     alt="streak graph"  
   />
 </div>
-    
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=alomyr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_title=true" 
+
+  <img
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=alomyr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_title=true"
   />
   <div align="center">
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomyr&theme=tokyonight&&custom_title=Technologies&layout=compact&langs_count=9" 
+  <img
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomyr&theme=tokyonight&&custom_title=Technologies&layout=compact&langs_count=9"
   />
 </div>
-
-
 
 <div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=alomyr.alomyr&" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
