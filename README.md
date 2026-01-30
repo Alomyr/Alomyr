@@ -90,7 +90,7 @@
 &nbsp;
 
 <p align="left"> <a href="https://www.youtube.com/@TheAlomyr?sub_confirmation=1">
-<img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCz5BzfWVd3yccqQOOfcxt-w?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
+<img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBM6zvyKCu0bg5qjMCMRNOg?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
 </a>
 <a href="https://github.com/alomyr?tab=repositories&sort=stargazers">
 <img src="https://custom-icon-badges.demolab.com/github/stars/alomyr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" />
