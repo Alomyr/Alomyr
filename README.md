@@ -100,9 +100,9 @@ I am looking to be a Technology Developer for Augmented Reality and AI.
 <a href="https://github.com/alomyr?tab=repositories&sort=stargazers">
 <img src="https://custom-icon-badges.demolab.com/github/stars/alomyr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" />
 </a>
-<a href="https://github.com/alomyr?tab=followers">
+<!-- <a href="https://github.com/alomyr?tab=followers">
 <img src="https://custom-icon-badges.demolab.com/github/followers/alomyr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
-</a>
+</a> -->
 </p>
 
 <div style="display: flex; gap: 10px;">
