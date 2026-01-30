@@ -33,6 +33,11 @@
 
 🌱 Currently learning Java, python, Data Structures, and Software Design
 
+⚙️ I am a student looking for a junior developer position who believes that code should be as elegant as art.
+
+I focus on creating efficient tools using Python, Java, and C++ for the back-end. Currently,
+I am looking to be a Technology Developer for Augmented Reality and AI.
+
 ### My portfolio <https://alomyr.github.io/portfolio/>
 
 ## My Skills
