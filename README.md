@@ -23,6 +23,8 @@
 
 ## 👨🏾‍🎓 About Me
 
+### My portfolio <https://alomyr.github.io/portfolio/>
+
 🎓 Technician in IT from IFRN - Campus Lajes
 
 🎓 Undergraduate student in Information Technology (BTI) at UFRN
@@ -37,8 +39,6 @@
 
 I focus on creating efficient tools using Python, Java, and C++ for the back-end. Currently,
 I am looking to be a Technology Developer for Augmented Reality and AI.
-
-### My portfolio <https://alomyr.github.io/portfolio/>
 
 ## My Skills
 
