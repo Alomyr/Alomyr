@@ -46,10 +46,8 @@
 
 🌱 Currently learning Java, python, Data Structures, and Software Design
 
-⚙️ I am a student looking for a junior developer position who believes that code should be as elegant as art.
+⚙️  I am a Bachelor of Science in Information Technology (BTI) student at UFRN, currently in my 5th semester, and I believe that software development is a technical art form where elegance and efficiency must go hand in hand. With a solid academic and practical foundation in Python, Java, and C++, I focus on building robust back-end architectures. Currently, I work as an intern at Cachina Soluções, where I apply my knowledge in process automation and specialized technical support. My practical experience ranges from server management and technical documentation to the mplementation of intelligent workflows. My current goal is to transition to the Data field, with a specific focus on Machine Learning Engineering. I am seeking opportunities as a Junior Developer to apply mathematical and algorithmic rigor in the creation of predictive models and high-performance systems, combining the precision of data engineering with the aesthetics of clean and scalable code.
 
-I focus on creating efficient tools using Python, Java, and C++ for the back-end. Currently,
-I am looking to be a Technology Developer for Augmented Reality and AI.
 
 ## My Skills
 
